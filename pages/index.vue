@@ -328,10 +328,10 @@ export default {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  background: #E5E5E5;
 }
 
 .container {
-  overflow: hidden;
   width: 100vw;
   height: auto;
 }
